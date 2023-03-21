@@ -1,0 +1,16 @@
+.tbl{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+table{
+
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-color: #EEE;
+    margin: 0;
+    padding: 10px;
+
+}
